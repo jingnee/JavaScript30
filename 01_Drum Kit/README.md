@@ -193,4 +193,4 @@ keys로 모든 'key'태그 내용을 받아와서 forEach로 탐색한다.
 
 
 
-완성코드는 [01drumKit](https://github.com/jingnee/JavaScript30/index-START.html)
+완성코드는 [01drumKit](https://github.com/jingnee/JavaScript30/blob/master/01_Drum%20Kit/01drumKit.html)
