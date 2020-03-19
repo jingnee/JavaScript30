@@ -145,4 +145,4 @@ this.dataset은 input 요소에서 `data-`로 되어있는 모든 요소들을 �
 
 
 
-전체 코드는 []()
+전체 코드는 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/03_CSS%20Variables/index-START.html)
