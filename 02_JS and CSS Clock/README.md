@@ -155,3 +155,5 @@ new Date()를 통해서 현재 시간을 받아온다.
 
 setInterval은 eventHandler(여기서 setDate)를 1000ms(즉 1초)마다 반복해서 실행하는 함수이다.
 
+완성 코드는 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/02_JS%20and%20CSS%20Clock/index-START.html)
+
