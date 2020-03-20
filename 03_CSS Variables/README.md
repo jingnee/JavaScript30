@@ -86,21 +86,19 @@ root 안에는 각 변수의 초깃값들을 설정한다.
 
 ```
 img{
-	padding: var(--spacing);
+    padding: var(--spacing);
     background-color: var(--base);
     filter: blur(var(--blur));
 }
 ```
-
-그리고 위에보면 <h2> 태그안에 hl class를 가지는 <span>태그가 하나 있는데, 사진의 배경색이 변경되면 `JS`라는 글자도 바꾸어 줄것이기 때문에 hl 스타일도 설정해준다.
+CSS에서 변수를 사용할 때는 `var(-- )` 이렇게 사용한다.
+그리고, 위에보면 <h2> 태그안에 hl class를 가지는 <span>태그가 하나 있는데, 사진의 배경색이 변경되면 `JS`라는 글자도 바꾸어 줄것이기 때문에 hl 스타일도 설정해준다.
 
 ```
 .hl{
       color: var(--base);
     }
 ```
-
-
 
 #### 2. 이벤트가 발생할때 이벤트핸들러를 호출하게 한다.
 
