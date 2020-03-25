@@ -180,6 +180,8 @@ __flex : __
   - `flex-shrink` : `0`과 `양의 정수`의 값을 가짐. 0이면 크기가 변하지 않고, 1이상이면  flex container의 크기가 flex item의 크기보다 작아질때 flex item의 크기가 flex container의 크기에 맞춰 줄어든다.
   - `flex-basis` : flex item의 기본 크기를 결정. default는 `auto`이다. 0으로 설정하면  flex item은 absolute flex item이 되어 flex container를 기준으로 결정된다. (0으로 설정할때는 % 또는 px등의 단위와 함께 사용해야 한다.)
 
+
+출처 : [flexbox로 만들 수 있는 10가지 레이아웃-Naver D2](https://d2.naver.com/helloworld/8540176)
 ---
 
 
@@ -304,4 +306,4 @@ const panels = document.querySelectorAll('.panel');
 
 
 
-완성 코드는 
+완성 코드는 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/05_Flex%20Panels%20Image%20Gallery/index-START.html)
