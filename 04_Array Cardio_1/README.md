@@ -303,6 +303,6 @@ if문을 통해서 초깃값을 설정해 주었다.
   }
   ```
 
-  
+  완성 코드는 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/04_Array%20Cardio_1/index-START.html)
 
   
