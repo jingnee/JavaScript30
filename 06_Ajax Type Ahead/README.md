@@ -1,6 +1,6 @@
 # Ajax Type Ahead
 
-### : 
+### : 비동기통신을 통해 미국 각 도시이름, 성장률, 위도, 경도, 인구 수, 주 이름 등을 가지는 JSON객체를 가져와서 검색어에 해당하는 도시나 주의 이름과 인구수를 보여주는 검색창 만들기
 
 기본 소스코드
 
@@ -217,5 +217,5 @@ displayMatch를 다음과 같이 수정하고 숫자 세개마다 ,를 찍어주
 
 Fetch API 는 계속계속봐도 사실 잘 안와닿는다. 한번 제대로 정리하면 알겠지..
 
-전체 소스코드 []()
+전체 소스코드 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/06_Ajax%20Type%20Ahead/index-START.html)
 
