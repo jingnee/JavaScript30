@@ -167,4 +167,4 @@ console.table(newComments);
 
 
 
-전체 소스코드는 [index-START.html]([https://github.com/jingnee/JavaScript30/blob/master/07_Array%Cardio_2/index-START.html)
+전체 소스코드는 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/07_Array%20Cardio_2/index-START.html)
