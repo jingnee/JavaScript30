@@ -220,4 +220,4 @@ draw함수에 조금 추가해주었다.
 
 
 
-완성코드는 [index-START.html]()
+완성코드는 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/08_HTML5%20Canvas/index-START.html)
