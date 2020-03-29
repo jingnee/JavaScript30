@@ -139,7 +139,7 @@ checkboxes.forEach(checkbox => checkbox.addEventListener('click',handleCheck);
 
 
 
-#### 2. shict Key 눌렀을때 사이에 있는 내용들 모두 클릭되도록 하기
+#### 2. shift Key 눌렀을때 사이에 있는 내용들 모두 클릭되도록 하기
 
 그리고 여기가 중요한데, `isBetween`이라는 변수를 두어서 true일때 checkbox를 check 하려고 한다.
 
@@ -149,11 +149,11 @@ isBetween의 초깃값은 false로 두고, checkbox를 처음부터 탐색하다
 
 그림에서 빨간색 체크를 먼저 누르고, shift를 누른상태로 파란색 체크를 눌렀다고 하면,
 
-`lastClicked`의 값은 handleCheck()를 수행한 빨간색 체크가 될것이고, 현재 shift를 누른상태에서 파란색 위치를 클릭했기때문에 this가 파란색 체크가 된상태에서 아직 handleCheck함수를 다 수행하지 않았다고 하자
+`lastClicked`의 값은 handleCheck()함수가 다 수행된 빨간색 체크가 될것이고, 현재 shift를 누른상태에서 파란색 위치를 클릭했기때문에 this가 파란색 체크라고 하자(아직 handleCheck()함수를 다 수행하지는 않은 상태. if문에 있음)
 
 그렇다면 isBetween이 this나 lastClicked일때 값을 변경해준다고 하면 오른쪽 보라색 boolean 값처럼 된다.
 
-isBetween이 true일때를 check 표시해주면 된다.
+isBetween이 true일때를 check 표시해주면 된다!!
 
 ```javascript
   let isBetween = false;
