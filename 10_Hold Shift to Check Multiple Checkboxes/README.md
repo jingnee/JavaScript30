@@ -194,4 +194,4 @@ ___
 
 
 
-전체 소스코드는 []()
+전체 소스코드는 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/10_Hold%20Shift%20to%20Check%20Multiple%20Checkboxes/index-START.html)
