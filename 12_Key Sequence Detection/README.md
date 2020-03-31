@@ -74,4 +74,4 @@ join('')은 앞에서 했었는데, 인자로 받은 내용으로 문자열을 �
 
 
 
-전체 소스코드는 []()
+전체 소스코드는 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/12_Key%20Sequence%20Detection/index-START.html)
