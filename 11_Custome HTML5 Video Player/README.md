@@ -185,4 +185,4 @@ MDN에 검색해서 Fullscreen을 요청하는 `requestfullscreen()`함수와 �
 
 
 
-전체 소스코드는 []()
+javascript 소스코드는 [scripts.js](https://github.com/jingnee/JavaScript30/blob/master/11_Custome%20HTML5%20Video%20Player/scripts.js)
