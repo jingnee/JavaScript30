@@ -153,9 +153,9 @@ __`window.scrollY`__, __`window.innerHeight`__, __`HTML.element.offsetTop`__, __
 
 ![image](https://user-images.githubusercontent.com/30755941/78158311-052fb200-747c-11ea-89de-b35cb590bb83.png)
 
-빨간 네모가 image라고 할때 초록색 범위가 __`HTML.element.height`__이고(이미지 높이)
+빨간 네모가 image라고 할때 초록색 범위가 __`HTML.element.height`__ 이고(이미지 높이)
 
-파란색 점선(파란색 점선은 스크롤된 부분도 포함. 즉, 제일 꼭대기부터)의 범위가 __`HTML.element.offsetTop`__이다. 
+파란색 점선(파란색 점선은 스크롤된 부분도 포함. 즉, 제일 꼭대기부터)의 범위가 __`HTML.element.offsetTop`__ 이다. 
 
 
 
@@ -195,5 +195,5 @@ debounce(func, wait = 20, immediate = true) 는 `func`를 20ms에 한번 실행�
 
 
 
-전체 소스코드는 [index-START.html]([https://github.com/jingnee/JavaScript30/blob/master/13_Slide%20in%20on%20Scroll/index-START.html](https://github.com/jingnee/JavaScript30/blob/master/13_Slide in on Scroll/index-START.html))
+전체 소스코드는 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/13_Slide%20in%20on%20Scroll/index-START.html)
 
