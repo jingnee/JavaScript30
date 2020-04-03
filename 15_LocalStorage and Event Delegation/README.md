@@ -236,4 +236,4 @@ itemsList.addEventListener('click',toggleDone);
 
 
 
-전체 소스코드는 []()
+전체 소스코드는 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/15_LocalStorage%20and%20Event%20Delegation/index-START.html)
