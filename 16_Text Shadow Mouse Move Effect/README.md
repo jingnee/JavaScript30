@@ -160,4 +160,4 @@ xWalk=100, yWalk=100
 
 ![image](https://user-images.githubusercontent.com/30755941/78504691-c8c8c280-77a9-11ea-8fb3-63c46acdaebc.png)
 
-전체 소스코드는 [index-START.html]()
+전체 소스코드는 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/16_Text%20Shadow%20Mouse%20Move%20Effect/index-START.html)
