@@ -223,7 +223,7 @@ function paintToCanvas(){
 
 
 
-전체 소스코드는 []()
+전체 소스코드는 [scripts.js](https://github.com/jingnee/JavaScript30/blob/master/19_Webcam%20Fun/scripts.js)
 
 
 
