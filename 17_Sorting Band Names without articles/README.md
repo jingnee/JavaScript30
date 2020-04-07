@@ -67,7 +67,7 @@ const bands = ['The Plot in You', 'The Devil Wears Prada', 'Pierce the Veil', 'N
 
   
 
- 정규식을 모른다면 [정규식정리]()
+ 정규식을 모른다면 [정규식정리](https://github.com/jingnee/TIL/blob/master/javascript/Regular%20Expression(%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D).md)
 
   
 
@@ -94,4 +94,4 @@ id가 'bands'인 태그에 정렬된 밴드이름을 넣어준다.
 
 
 
-전체 소스코드는 []()
+전체 소스코드는 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/17_Sorting%20Band%20Names%20without%20articles/index-START.html)

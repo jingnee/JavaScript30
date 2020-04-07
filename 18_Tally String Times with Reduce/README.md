@@ -250,4 +250,4 @@ __`reduce()`__는 전에도 했었지만 total에 값들이 저장되어서 마�
 
 
 
-전체 소스코드는 [index-START.html]()
+전체 소스코드는 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/18_Tally%20String%20Times%20with%20Reduce/index-START.html)
