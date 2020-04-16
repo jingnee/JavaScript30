@@ -129,4 +129,4 @@ highlight의 폭과 너비를 정해주고 마우스 위치에 따라 이동하�
 
 
 
-전체 소스코드는 : [index-START.html]()
+전체 소스코드는 : [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/22_Follow%20Along%20Link%20Highlighter/index-START.html)
