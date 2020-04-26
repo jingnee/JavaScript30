@@ -4,9 +4,9 @@
 
 사이트에 가입하면 30일동안 동영상을 볼 수 있다.
 
-[ https://javascript30.com/ ](Javascript30)
+[ https://javascript30.com/ ]( https://javascript30.com/ )
 
-[https://github.com/wesbos/JavaScript30.git](소스코드)
+[https://github.com/wesbos/JavaScript30.git](https://github.com/wesbos/JavaScript30.git)
 
 여기에서 소스코드다운받아서 공부하면됨. 완성코드랑, 기본코드 두개가 있다.
 
