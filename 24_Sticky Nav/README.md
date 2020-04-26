@@ -170,4 +170,4 @@ fixNav안에 있는 if문에 body의 padding값을 nav의 높이만큼 추가해
 
 
 
-전체 소스코드는 [](index-START.html)
+전체 소스코드는 [index-START.html](https://github.com/jingnee/JavaScript30/blob/master/24_Sticky%20Nav/index-START.html)
